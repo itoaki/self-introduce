@@ -3,4 +3,4 @@
     <!-- content -->
     <nuxt />
   </v-app>
-</template>zx
+</template>
