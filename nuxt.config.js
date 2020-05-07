@@ -18,7 +18,7 @@ export default {
     ]
   },
   router: {
-    base: '/'
+    base: '/self-introduce/'
   },
   /*
   ** Customize the progress-bar color
